@@ -18,3 +18,5 @@ The main steps involved:
 + Generating predictions for the test set and creating a submission file
 
 I participated in this project as part of a Kaggle competition organized by Google AI Academy aiming to improve sales price prediction accuracy.
+
+https://www.kaggle.com/sudeozmen
